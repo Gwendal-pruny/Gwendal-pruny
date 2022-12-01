@@ -19,7 +19,8 @@ Hello friends ✋ , welcome to my GitHub. I am Gwendal Pruny and I have to do th
 &nbsp;
 
 </p>
-
+<br>
+<br>
 ## My favorite tools and technologies ⚙️ 
 
 > Tools and technologies that I have worked with and am interested in
