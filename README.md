@@ -1,6 +1,7 @@
 <p align="center">
     <img src="boigif.gif">
-p>
+</p>
+
 <div align="justify">
 
 [![Instagram](https://img.shields.io/badge/Gwendal-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/Gwendal/)
