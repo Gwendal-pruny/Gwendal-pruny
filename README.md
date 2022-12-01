@@ -12,6 +12,8 @@
 [![gitlab](https://img.shields.io/badge/Gwendal-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Zerio113)
  
 </div> 
+<br>
+<br>
 <p align="justify"> 
 Hello friends ✋ , welcome to my GitHub. I am Gwendal Pruny and I have to do this..
 &nbsp;
