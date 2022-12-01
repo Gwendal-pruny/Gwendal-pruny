@@ -2,7 +2,7 @@
     <img src="boigif.gif">
 </p>
 
-<div align="justify">
+<div align="center">
 
 [![Instagram](https://img.shields.io/badge/Gwendal-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/Gwendal/)
 [![Twitter](https://img.shields.io/badge/Gwendal-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/Gwendal/)
