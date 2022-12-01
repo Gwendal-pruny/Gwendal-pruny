@@ -1,15 +1,14 @@
 <p align="center">
     <img src="boigif.gif">
-    <div align="justify">
+</p>
+
+<div align="justify">
     [![Instagram](https://img.shields.io/badge/Gwendal-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/Gwendal/)
     [![Twitter](https://img.shields.io/badge/Gwendal-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/Gwendal/)
     [![Linkedin](https://img.shields.io/badge/Gwendal-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Gwendal//)
     [![github](https://img.shields.io/badge/Gwendal-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zerio113/)
     [![telegram](https://img.shields.io/badge/Gwendal-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Gwendal/)
-    [![gitlab](https://img.shields.io/badge/Gwendal-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Zerio113)
-
- </p>
- 
+    [![gitlab](https://img.shields.io/badge/Gwendal-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Zerio113) 
 </div>  
 <p align="justify"> 
 Hello friends ✋ , welcome to my GitHub. I am Gwendal Pruny and I have to do this..
