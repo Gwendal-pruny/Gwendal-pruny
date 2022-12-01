@@ -11,7 +11,7 @@
  
 </div>  
 <p align="justify"> 
-Hello friends ✋ , welcome to my GitHub. I am Gwendal Pruny and I have tried most programming fields such as game development, mobile application development, web design, and development. Almost more than 10 years have passed since then. I am currently a computer engineering student
+Hello friends ✋ , welcome to my GitHub. I am Gwendal Pruny and I have to do this..
 &nbsp;
 
 </p>
